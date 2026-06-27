@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hello, I'm Dr. Itauma Itauma 👋
 
-<!--
-**amightyo/amightyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytics Professor | AI & Data Science Researcher | Human–AI Decision-Making | Quantitative Methods
 
-Here are some ideas to get you started:
+I conduct interdisciplinary research at the intersection of artificial intelligence, learning analytics, healthcare analytics, and decision science. My work emphasizes reproducible research, evidence synthesis, and data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Human–AI Decision-Making
+- Learning Analytics
+- Data Science
+- Structural Equation Modeling
+- Bayesian Statistics
+- Meta-analysis
+- Bibliometric Analysis
+- Healthcare Analytics
+
+## 🛠 Tools & Technologies
+
+- R
+- Python
+- SAS
+- Stata
+- SQL
+- Jamovi
+- JASP
+- Power BI
+- Quarto
+- LaTeX
+- Git
+
+## 📚 Current Projects
+
+- Human–AI Decision-Making Bibliometric Analysis
+- AI Decision-Support Meta-analysis
+- Bayesian Epidemiology
+- Systems Thinking in Higher Education
+- Learning Analytics Research
+
+## 🤝 Collaboration
+
+I'm interested in collaborating on projects involving:
+
+- AI in Higher Education
+- Human–AI Collaboration
+- Evidence Synthesis
+- Healthcare Analytics
+- Quantitative Research Methods
+
+## 📫 Connect
+
+- *[LinkedIn](https://www.linkedin.com/in/amightyo/)*
+- *[Google Scholar](https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en)*
+- *[ORCID](https://orcid.org/0009-0000-8835-5292)*
