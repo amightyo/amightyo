@@ -2,7 +2,7 @@
 
 Analytics Professor | AI & Data Science Researcher | Human–AI Decision-Making | Quantitative Methods
 
-I conduct interdisciplinary research at the intersection of artificial intelligence, learning analytics, healthcare analytics, and decision science. My work emphasizes reproducible research, evidence synthesis, and data-driven decision-making.
+I conduct interdisciplinary research at the intersection of artificial intelligence, learning analytics, health analytics, and decision science. My work emphasizes reproducible research, evidence synthesis, and data-driven decision-making.
 
 ## 🔬 Research Interests
 
